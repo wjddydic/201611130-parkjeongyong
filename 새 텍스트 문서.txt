@@ -1,0 +1,2 @@
+1. 본인이 계정 생성한 URL을 입력할것.
+https://github.com/wjddydic/201611130-parkjeongyong.git
